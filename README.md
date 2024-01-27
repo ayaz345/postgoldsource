@@ -30,6 +30,6 @@ To get started with our projects, refer to the [wiki](wiki) for detailed documen
 
 ## Contact Us
 
-If you have questions or suggestions, feel free to [contact us](mailto:postgoldsrc@example.com).
+If you have questions or suggestions, feel free to [contact us](mailto:ayaz4324@gmail.com).
 
 Happy porting!
